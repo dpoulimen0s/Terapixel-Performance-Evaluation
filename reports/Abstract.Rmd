@@ -1,0 +1,44 @@
+---
+title: "Abstract"
+author: "Dimitrios Poulimenos - 200291237"
+date: "Semester 1 - 2023/24"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align   = 'center')
+knitr::opts_knit$set(root.dir = normalizePath('..'))
+```
+
+```{r Abstract, include = FALSE}
+library(ProjectTemplate)
+load.project()
+```
+
+## Abstract
+
+**Context:**
+This project explores the performance evaluation of terapixel rendering in cloud (super)computing, focusing on the Newcastle Urban Observatory's data visualization needs. The increasing demand for efficient, scalable visualization of large-scale data in urban environments underscores the importance of this study.
+
+**Objective:**
+The primary goal is to assess the capability and limitations of cloud supercomputing systems in rendering terapixel images efficiently. This involves exploring the relationship between GPU performance and temperature, identifying dominant event types affecting task runtimes, and evaluating the performance consistency of different GPU cards.
+
+**Method:**
+The analysis utilized data from the Newcastle Urban Observatory, processed through cloud computing systems. The study involved data preprocessing, exploratory data analysis, and performance evaluation using specific metrics such as GPU temperature, utilization percentage, and power draw. The performance of GPUs was compared based on their serial numbers to determine efficiency and reliability.
+
+**Results:**
+Key findings include the identification of 'Render' events as the primary contributor to task runtimes and the correlation between increased GPU temperature and performance. GPUs with serial number "323617021202" consistently showed superior performance while GPUs with the serial number "“3251171711574" consistently showed inferior performance, offering insights into hardware efficiency and potential optimizations.
+
+**Novelty:**
+This work contributes novel insights into cloud-based terapixel image rendering, particularly in urban data visualization contexts.Moreover, It not only identifies potential performance issues in such systems but also proposes solutions to address them. By providing detailed analyses of GPU performance relative to temperature changes and task demands, offers a comprehensive view of cloud supercomputing capabilities in handling complex visualizations. 
+
+## Key Images
+
+```{r, fig.height=6, fig.width= 10, echo=FALSE}
+Events_Barplot
+```
+
+```{r, fig.height=6, fig.width= 10, echo=FALSE}
+Overall_Performance_Temp
+```
+

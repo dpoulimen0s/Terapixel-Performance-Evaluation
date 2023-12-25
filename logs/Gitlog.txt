@@ -1,0 +1,257 @@
+commit 5c372f376ecfbe13146f847a7b1976c3456a8de0
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Wed Dec 13 18:33:08 2023 +0000
+
+    Small aesthetic touches in the analysis report and plots, Small changes in README.md file, Wrote the Abstract report and added the key images, Final commit
+
+commit 697a2b5d4d864a043f282bd52ad20396250c03fb
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 12 20:52:20 2023 +0000
+
+    Updated and finished the README.md file
+
+commit 7e24eaa225c5861f82f98df51e525db7316d2c18
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 12 20:50:55 2023 +0000
+
+    Updated the README.md file
+
+commit 97f25c240e86fc4c26c68323dc3bb67428483b81
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 12 20:46:30 2023 +0000
+
+    The README.md has been created
+
+commit 26036745fea44623455fb0ca3c744b5e21b03cc0
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 12 20:32:20 2023 +0000
+
+    Wrote the Self Reflection section of my analysis report, Report has been completed
+
+commit 4745adf4637f0227c02332654e1d4e2e62bdac14
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 12 19:57:33 2023 +0000
+
+    Wrote the Future Work section of my analysis report, Final touches in the preprocessing file
+
+commit 48f5284849665072328d66ecfd4ef99ded33136e
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 12 19:11:45 2023 +0000
+
+    Wrote the Evaluation part of my analysis report, Some small changes in the preprocessing file
+
+commit 47df6a43305851ca7e11826fcbe20bd5dec6205c
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 12 14:58:59 2023 +0000
+
+    Updated the EDA part of my analysis report, Made some small aesthetic changes on the plots
+
+commit dc2f4b3103becd911925dbe36caec93b9fc2f7f8
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 12 03:43:00 2023 +0000
+
+    Added standard deviation as a metric in the preprocessing code for the third objective
+
+commit 87715fc969c7ef295258514ccb964ed95d716594
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Mon Dec 11 21:22:10 2023 +0000
+
+    Added the patchwork library to global.dcf file and updated the 01-A.R accordingly
+
+commit c368cae1c1520f74a6e6c306d053e5c253ce2f61
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Mon Dec 11 21:20:06 2023 +0000
+
+    Finished the subsection Exploratory Data Analysis of my analysis report, Changed the dimensions of the plots for fitting purposes
+
+commit a07fb7254dbc9f3f9a75b12b98f707ca6b0cfdc6
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Mon Dec 11 18:18:18 2023 +0000
+
+    Wrote the Modelling section of my analysis report
+
+commit fc696a1ed9d9fbcb2a418b286580df45c4da7363
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Mon Dec 11 18:06:16 2023 +0000
+
+    Upgraded the visual of the plots, Fixed some mistakes in the preprocessing code in general, Finished the project's code
+
+commit 5d4cc2bef9ff1dbe1097c0b67eb2caed28ca0ca9
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sun Dec 10 20:00:21 2023 +0000
+
+    Added the preprocessing code for my third objective, Added the visualisation of my third objective as well, Adjusted my analysis report accordingly
+
+commit 0966565815448af6df71a79be4022fdc9e30a401
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sun Dec 10 16:34:50 2023 +0000
+
+    Wrote the preprocessing part of my third objective in the Data Wrangling section of my analysis report
+
+commit cf747e4dc4a9dd5300d4c2efa40a8d8093674ab3
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sat Dec 9 22:01:25 2023 +0000
+
+    I fixed the redundancy in the objective 2 preprocessing code, Some small changes to the plots as well
+
+commit 68b15a66469076478eb33ee8386e3a36f703ec79
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sat Dec 9 00:18:31 2023 +0000
+
+    I made some corrections to the text in the Data Wrangling section of my analysis report
+
+commit 24c3975076afad9508941d0f5ef33e7d1a483bbc
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sat Dec 9 00:12:30 2023 +0000
+
+    Wrote the preprocessing part of my second objective in the Data Wrangling section of my analysis report
+
+commit a9dcbca2f00a70167e25a2906f3a6fcfc6f867a4
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Fri Dec 8 23:37:16 2023 +0000
+
+    Corected the code for dataframes creation of objective 2
+
+commit b4342d77a354c44929ca2b62d59bd0a8789e3740
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Fri Dec 8 23:35:21 2023 +0000
+
+    I have completed the preprocessing for objective 2 and also I have created the necessary plots
+
+commit 8984c7c4285a046174466235e2998965001e4eb3
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Thu Dec 7 22:51:30 2023 +0000
+
+    Added the first commands of the preprocessing about objective 2 and updated the report analysis accordingly.
+
+commit 2d81cef17514dce719fb355124d20c5e77e9bc3a
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Thu Dec 7 20:51:15 2023 +0000
+
+    Wrote the first part of Data Wrangling subsection, Added some comments in the 01-A.R file to distinguish the workflow
+
+commit fe6eb6002d5d5067441bbf65ae44dfbbfdd58b8a
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Thu Dec 7 20:06:03 2023 +0000
+
+    Wrote the first part of Data Preparation section in my report analysis, Added all the preprocessing code for objective 1 and also the visualisation of it
+
+commit 4d8cb51174f79a774a91f100176eeeae960aebd4
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Thu Dec 7 17:01:22 2023 +0000
+
+    Finally concluded to objectives and their criteria
+
+commit c7dd2d7c65fa15a496a4f57e0adf082a67fe12aa
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Thu Dec 7 16:55:18 2023 +0000
+
+    Redefined my objectives and their success criteria in the report, Added the timestamp convertion in the Data Preprocessing part in the 01-A.R file
+
+commit 561ea19a3083c1a30e7a1bba1feec1c0bd112220
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Wed Dec 6 23:16:08 2023 +0000
+
+    Configured the global.dcf file, Add the timestamp convertion in 01-A.R file, Reconsidered the objectives and their success criteria
+
+commit c68ccc12e00703729842bb38f37fc85ed37f6f67
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 5 23:07:17 2023 +0000
+
+    I have finished writing the Exploring the data subsection of my report analysis.
+
+commit e831216626dbc7d72412f508542a67ddf57479f2
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 5 21:48:54 2023 +0000
+
+    Wrote the Exploring the data subsection and also created the three dataframes in 01-A.R file in the munge folder
+
+commit a55f106c6ebf0b24adc9d811a9984bc89d87481d
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 5 20:52:15 2023 +0000
+
+    I made a few changes about the  order of my analysis report
+
+commit a8d382646c5a91c51876b78522e1fcd7ac017c53
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 5 20:39:05 2023 +0000
+
+    Wrote the Data Understanding section of my report
+
+commit e9fdb1fb2d185c27f9886e4d70e2b1ac0d8393c8
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 5 19:33:41 2023 +0000
+
+    Wrote the Project Justification and Work Plan section of my report and also wrote a few more things about business Understanding section
+
+commit f51580ff06e988f82b85d247241057a7c06b954f
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 5 02:31:30 2023 +0000
+
+    Included a small text to my objectives
+
+commit 4844c9ba8ca8de6b834d99d517aa4e41b9a5f8eb
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Dec 5 02:28:10 2023 +0000
+
+    Wrote the Objectives and Success Criteria section of the report
+
+commit 88cdeb4bcdd383090dc6429fef20cefe6285a8a8
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Mon Dec 4 23:37:14 2023 +0000
+
+    Updated the Business Understanding section of the report
+
+commit 4108eb3dd5ec7c5dbccf37f7799d699869594e28
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Mon Dec 4 22:58:04 2023 +0000
+
+    Added a small paragraph in the Introduction section
+
+commit b100d821502721d985aba716e46a176950cf2e71
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Mon Dec 4 22:43:39 2023 +0000
+
+    Wrote the Introduction section of my report
+
+commit f371e1de73f94391bae206449349db2af81639bd
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Mon Dec 4 21:06:04 2023 +0000
+
+    Created the basic structure of my report
+
+commit abbf988a4d989b08d6d61d7ab5cc5d9c58f0814b
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Mon Dec 4 20:20:16 2023 +0000
+
+    Set up abstract.Rmd to load the project
+
+commit d6b2b9d100eb1c3804493b5c716373ec20c1bd67
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sun Dec 3 20:06:37 2023 +0000
+
+    Set up Abstract report
+
+commit 2938377ae7756f6983fe0579bcb58362592de7e2
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sun Dec 3 19:18:02 2023 +0000
+
+    Deleted TODO file
+
+commit adf24260bf45e7bbc3a8ebbd201ae0b5e49fd1fa
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sun Dec 3 19:16:12 2023 +0000
+
+    Added the data I am about to work with
+
+commit caae040e628282ace0b229ad436c416890d73aa7
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sun Dec 3 19:12:34 2023 +0000
+
+    Set up Rmarkdown report
+
+commit 9f7d2ad9e5d412de6d4e07777a8685df5a7a871f
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sun Dec 3 19:02:38 2023 +0000
+
+    Initial commit, set up ProjectTemplate
