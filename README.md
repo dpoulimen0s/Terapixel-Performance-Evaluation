@@ -1,4 +1,4 @@
-
+# Project Overview
 In this project, I led an in-depth evaluation of terapixel rendering performance in cloud supercomputing, specifically tailored to the Newcastle Urban Observatory's data visualization needs. This study was pivotal in assessing the capabilities and limitations of cloud systems in efficiently rendering large-scale urban data. I successfully conducted comprehensive data analyses, focusing on GPU performance metrics such as temperature, utilization, and power draw. My findings were significant, revealing key insights like the impact of 'Render' events on task runtimes and the correlation between GPU temperature and performance. Notably, I identified specific GPUs with varying efficiency levels, contributing novel perspectives to the field of cloud-based terapixel image rendering, especially in urban data contexts. This work not only pinpointed potential performance bottlenecks but also proposed viable optimization strategies, enhancing our understanding of cloud supercomputing in complex data visualizations.
 
 # Project Structure and Execution Guide
